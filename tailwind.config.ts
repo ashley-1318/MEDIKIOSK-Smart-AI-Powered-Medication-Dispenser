@@ -18,12 +18,24 @@ export default {
 			}
 		},
 		extend: {
+			fontFamily: {
+				sans: ['Poppins', 'system-ui', 'sans-serif'],
+			},
 			colors: {
 				border: 'hsl(var(--border))',
 				input: 'hsl(var(--input))',
 				ring: 'hsl(var(--ring))',
 				background: 'hsl(var(--background))',
 				foreground: 'hsl(var(--foreground))',
+				
+				/* Medical Brand Colors */
+				'medical-primary': 'hsl(var(--medical-primary))',
+				'medical-secondary': 'hsl(var(--medical-secondary))',
+				'medical-accent': 'hsl(var(--medical-accent))',
+				'medical-success': 'hsl(var(--medical-success))',
+				'medical-warning': 'hsl(var(--medical-warning))',
+				'medical-error': 'hsl(var(--medical-error))',
+				
 				primary: {
 					DEFAULT: 'hsl(var(--primary))',
 					foreground: 'hsl(var(--primary-foreground))'
