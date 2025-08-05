@@ -15,6 +15,8 @@ import {
   Zap
 } from "lucide-react";
 import { toast } from "@/hooks/use-toast";
+import { processPrescriptionImage } from "@/services/PrescriptionOCR";
+import { ExtractedData } from "@/types/prescription";
 import heroImage from "@/assets/medikiosk-hero.jpg";
 
 const PrescriptionUpload = () => {
@@ -68,38 +70,44 @@ const PrescriptionUpload = () => {
   };
 
   const handleScanPrescription = async () => {
+    if (!uploadedImage) return;
+    
     setIsProcessing(true);
     
-    // Simulate OCR processing
-    await new Promise(resolve => setTimeout(resolve, 3000));
-    
-    setIsProcessing(false);
-    
-    toast({
-      title: "Prescription Scanned Successfully",
-      description: "Medicine details have been extracted",
-    });
-    
-    // Navigate to OCR results
-    navigate("/ocr-results", { 
-      state: { 
-        prescriptionImage: uploadedImage,
-        extractedData: {
-          medicines: [
-            {
-              name: "Paracetamol",
-              dosage: "500mg",
-              frequency: "Twice daily",
-              duration: "5 days",
-              available: true
-            }
-          ],
-          doctorName: "Dr. Smith",
-          patientName: "John Doe",
-          date: new Date().toLocaleDateString()
-        }
-      } 
-    });
+    try {
+      toast({
+        title: "Processing Prescription",
+        description: "AI is analyzing your prescription...",
+      });
+
+      // Process prescription using your ML model
+      const extractedData = await processPrescriptionImage(uploadedImage);
+      
+      setIsProcessing(false);
+      setShowPreview(false);
+      
+      toast({
+        title: "Prescription Scanned",
+        description: "AI extraction completed successfully",
+      });
+      
+      // Navigate to OCR results with processed data
+      navigate("/ocr-results", { 
+        state: { 
+          prescriptionImage: uploadedImage,
+          extractedData
+        } 
+      });
+    } catch (error) {
+      setIsProcessing(false);
+      console.error('OCR processing failed:', error);
+      
+      toast({
+        title: "Processing Failed",
+        description: "Unable to process prescription. Please try again.",
+        variant: "destructive",
+      });
+    }
   };
 
   const uploadOptions = [
