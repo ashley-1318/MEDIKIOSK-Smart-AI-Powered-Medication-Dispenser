@@ -101,11 +101,5 @@ Contributions to this project are welcome! Please fork the repository, create a 
 
 This project is based on a patent application and is intended for conceptual and educational purposes. All rights are reserved by the applicant.
 
-## 🏢 Applicant Information
-
-* **Name:** SRM TRP ENGINEERING COLLEGE
-* **Nationality:** INDIAN
-* **Address:** The Principal, SRM TRP ENGINEERING COLLEGE, SRM Nagar, Trichy - Chennai Highway, Near Samayapuram, Tiruchirappalli - 621105. Tamil Nadu
-
 ---
 *This README is based on the patent specification filed on the 25th day of April, 2025.*
