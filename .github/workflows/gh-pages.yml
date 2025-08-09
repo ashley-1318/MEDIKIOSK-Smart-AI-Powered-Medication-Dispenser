@@ -1,0 +1,66 @@
+# GitHub Pages Deployment Workflow
+# 
+# This workflow automatically deploys the contents of the 'public' folder to GitHub Pages
+# when changes are pushed to the main branch.
+#
+# SETUP INSTRUCTIONS:
+# 1. Go to your repository Settings > Pages
+# 2. Under "Source", select "GitHub Actions"
+# 3. After the first successful deployment, your site will be available at:
+#    https://<username>.github.io/<repository-name>/
+#    or https://ashley-1318.github.io/MEDIKIOSK-Smart-AI-Powered-Medication-Dispenser/
+#
+# PERMISSIONS REQUIRED:
+# - This workflow uses GITHUB_TOKEN which is automatically provided
+# - No additional secrets need to be configured
+# - The workflow has write permissions to deploy to gh-pages branch
+
+name: Deploy to GitHub Pages
+
+# Trigger the workflow on push to main branch
+on:
+  push:
+    branches: [ main ]
+  
+  # Allow manual triggering of the workflow
+  workflow_dispatch:
+
+# Set permissions for GITHUB_TOKEN
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    name: Deploy to GitHub Pages
+    runs-on: ubuntu-latest
+    
+    steps:
+      # Checkout the repository code
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      # Deploy the public folder to GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          # Use GITHUB_TOKEN for authentication
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Deploy contents of the public folder
+          publish_dir: ./public
+          
+          # Optional: Custom commit message
+          commit_message: "Deploy public folder to GitHub Pages"
+          
+          # Optional: Enable Jekyll processing (set to false if not needed)
+          enable_jekyll: false
+          
+          # Optional: Add CNAME file if using custom domain
+          # cname: your-custom-domain.com
