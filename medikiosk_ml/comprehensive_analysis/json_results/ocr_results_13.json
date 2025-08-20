@@ -1,0 +1,471 @@
+{
+  "image_path": "data\\samples\\13.jpg",
+  "success": true,
+  "combined_text": "PHARMACEUTICAL BENEFITS ENTITLEMENT NO SAFETY NET ENTITLEMENT CONCEST NAL OR DEPENDANT; RPBS BENEFICIARY CARD HOLDER (cross reiovani bon OR SAFE NET CONGESSION CARD EB PATIENT'S NAME ADDRESS POST CODE DATE 6 (tick appropriate boxes) PBS RPBS BRAND SUBSTITUTION NOT PERMITTEL AAO556414 Ls_2",
+  "detailed_results": [
+    {
+      "text": "PHARMACEUTICAL BENEFITS ENTITLEMENT NO",
+      "confidence": 0.8504391410474238,
+      "bbox": [
+        [
+          388,
+          15
+        ],
+        [
+          1000,
+          15
+        ],
+        [
+          1000,
+          48
+        ],
+        [
+          388,
+          48
+        ]
+      ]
+    },
+    {
+      "text": "SAFETY NET ENTITLEMENT",
+      "confidence": 0.9832942461751558,
+      "bbox": [
+        [
+          102,
+          120
+        ],
+        [
+          402,
+          120
+        ],
+        [
+          402,
+          152
+        ],
+        [
+          102,
+          152
+        ]
+      ]
+    },
+    {
+      "text": "CONCEST",
+      "confidence": 0.6016410246763073,
+      "bbox": [
+        [
+          662,
+          122
+        ],
+        [
+          774,
+          122
+        ],
+        [
+          774,
+          154
+        ],
+        [
+          662,
+          154
+        ]
+      ]
+    },
+    {
+      "text": "NAL OR DEPENDANT; RPBS BENEFICIARY",
+      "confidence": 0.6917328241662379,
+      "bbox": [
+        [
+          796,
+          122
+        ],
+        [
+          1242,
+          122
+        ],
+        [
+          1242,
+          154
+        ],
+        [
+          796,
+          154
+        ]
+      ]
+    },
+    {
+      "text": "CARD HOLDER (cross reiovani bon",
+      "confidence": 0.34299676960172343,
+      "bbox": [
+        [
+          102,
+          146
+        ],
+        [
+          434,
+          146
+        ],
+        [
+          434,
+          176
+        ],
+        [
+          102,
+          176
+        ]
+      ]
+    },
+    {
+      "text": "OR SAFE",
+      "confidence": 0.31500821750581554,
+      "bbox": [
+        [
+          662,
+          148
+        ],
+        [
+          754,
+          148
+        ],
+        [
+          754,
+          178
+        ],
+        [
+          662,
+          178
+        ]
+      ]
+    },
+    {
+      "text": "NET CONGESSION CARD",
+      "confidence": 0.8314297479180868,
+      "bbox": [
+        [
+          792,
+          148
+        ],
+        [
+          1064,
+          148
+        ],
+        [
+          1064,
+          180
+        ],
+        [
+          792,
+          180
+        ]
+      ]
+    },
+    {
+      "text": "EB",
+      "confidence": 0.5042377780887036,
+      "bbox": [
+        [
+          1122,
+          150
+        ],
+        [
+          1158,
+          150
+        ],
+        [
+          1158,
+          178
+        ],
+        [
+          1122,
+          178
+        ]
+      ]
+    },
+    {
+      "text": "PATIENT'S NAME",
+      "confidence": 0.9496539338868283,
+      "bbox": [
+        [
+          28,
+          190
+        ],
+        [
+          318,
+          190
+        ],
+        [
+          318,
+          242
+        ],
+        [
+          28,
+          242
+        ]
+      ]
+    },
+    {
+      "text": "ADDRESS",
+      "confidence": 0.9998999270609606,
+      "bbox": [
+        [
+          29,
+          273
+        ],
+        [
+          203,
+          273
+        ],
+        [
+          203,
+          309
+        ],
+        [
+          29,
+          309
+        ]
+      ]
+    },
+    {
+      "text": "POST",
+      "confidence": 0.9569668769836426,
+      "bbox": [
+        [
+          608,
+          316
+        ],
+        [
+          692,
+          316
+        ],
+        [
+          692,
+          346
+        ],
+        [
+          608,
+          346
+        ]
+      ]
+    },
+    {
+      "text": "CODE",
+      "confidence": 0.9982122182846069,
+      "bbox": [
+        [
+          608,
+          342
+        ],
+        [
+          696,
+          342
+        ],
+        [
+          696,
+          372
+        ],
+        [
+          608,
+          372
+        ]
+      ]
+    },
+    {
+      "text": "DATE",
+      "confidence": 0.999814738722209,
+      "bbox": [
+        [
+          941,
+          340
+        ],
+        [
+          1039,
+          340
+        ],
+        [
+          1039,
+          380
+        ],
+        [
+          941,
+          380
+        ]
+      ]
+    },
+    {
+      "text": "6",
+      "confidence": 0.9136616525229648,
+      "bbox": [
+        [
+          1239,
+          315
+        ],
+        [
+          1280,
+          315
+        ],
+        [
+          1280,
+          375
+        ],
+        [
+          1239,
+          375
+        ]
+      ]
+    },
+    {
+      "text": "(tick appropriate boxes)",
+      "confidence": 0.8898190958348156,
+      "bbox": [
+        [
+          45,
+          376
+        ],
+        [
+          368,
+          376
+        ],
+        [
+          368,
+          416
+        ],
+        [
+          45,
+          416
+        ]
+      ]
+    },
+    {
+      "text": "PBS",
+      "confidence": 0.9999671014761352,
+      "bbox": [
+        [
+          125,
+          427
+        ],
+        [
+          203,
+          427
+        ],
+        [
+          203,
+          463
+        ],
+        [
+          125,
+          463
+        ]
+      ]
+    },
+    {
+      "text": "RPBS",
+      "confidence": 0.9998474717140198,
+      "bbox": [
+        [
+          356,
+          427
+        ],
+        [
+          458,
+          427
+        ],
+        [
+          458,
+          463
+        ],
+        [
+          356,
+          463
+        ]
+      ]
+    },
+    {
+      "text": "BRAND SUBSTITUTION NOT PERMITTEL",
+      "confidence": 0.6708505083305764,
+      "bbox": [
+        [
+          648,
+          427
+        ],
+        [
+          1280,
+          427
+        ],
+        [
+          1280,
+          467
+        ],
+        [
+          648,
+          467
+        ]
+      ]
+    },
+    {
+      "text": "AAO556414",
+      "confidence": 0.545926779959264,
+      "bbox": [
+        [
+          158,
+          482
+        ],
+        [
+          440,
+          482
+        ],
+        [
+          440,
+          530
+        ],
+        [
+          158,
+          530
+        ]
+      ]
+    },
+    {
+      "text": "Ls_2",
+      "confidence": 0.3673454225063324,
+      "bbox": [
+        [
+          839,
+          579
+        ],
+        [
+          1156,
+          579
+        ],
+        [
+          1156,
+          688
+        ],
+        [
+          839,
+          688
+        ]
+      ]
+    }
+  ],
+  "total_regions": 20,
+  "avg_confidence": 0.7706372738230904,
+  "medical_analysis": {
+    "drug_keywords": [
+      "g",
+      "l",
+      "od",
+      "po"
+    ],
+    "prescription_indicators": [
+      "patient",
+      "name",
+      "address",
+      "date"
+    ],
+    "total_medical_terms": 8,
+    "confidence": "High",
+    "is_medical": true
+  },
+  "structured_info": {
+    "dosages": [],
+    "frequencies": [],
+    "durations": []
+  }
+}

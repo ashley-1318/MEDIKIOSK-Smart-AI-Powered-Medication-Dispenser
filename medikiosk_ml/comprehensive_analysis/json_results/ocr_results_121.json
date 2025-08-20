@@ -1,0 +1,200 @@
+{
+  "image_path": "data\\samples\\121.jpg",
+  "success": true,
+  "combined_text": "ZaQyuUsue (0x1 A 'Ea vcele A wrll ~gly vocl",
+  "detailed_results": [
+    {
+      "text": "ZaQyuUsue",
+      "confidence": 0.10042327010200418,
+      "bbox": [
+        [
+          177,
+          97
+        ],
+        [
+          333,
+          97
+        ],
+        [
+          333,
+          159
+        ],
+        [
+          177,
+          159
+        ]
+      ]
+    },
+    {
+      "text": "(0x1",
+      "confidence": 0.12593981623649597,
+      "bbox": [
+        [
+          387,
+          109
+        ],
+        [
+          441,
+          109
+        ],
+        [
+          441,
+          147
+        ],
+        [
+          387,
+          147
+        ]
+      ]
+    },
+    {
+      "text": "A",
+      "confidence": 0.4523007637128593,
+      "bbox": [
+        [
+          416,
+          172
+        ],
+        [
+          442,
+          172
+        ],
+        [
+          442,
+          200
+        ],
+        [
+          416,
+          200
+        ]
+      ]
+    },
+    {
+      "text": "'Ea vcele",
+      "confidence": 0.06873273218616263,
+      "bbox": [
+        [
+          258,
+          222
+        ],
+        [
+          378,
+          222
+        ],
+        [
+          378,
+          294
+        ],
+        [
+          258,
+          294
+        ]
+      ]
+    },
+    {
+      "text": "A",
+      "confidence": 0.6847189387635808,
+      "bbox": [
+        [
+          405,
+          239
+        ],
+        [
+          423,
+          239
+        ],
+        [
+          423,
+          263
+        ],
+        [
+          405,
+          263
+        ]
+      ]
+    },
+    {
+      "text": "wrll",
+      "confidence": 0.2503376007080078,
+      "bbox": [
+        [
+          432,
+          220
+        ],
+        [
+          526,
+          220
+        ],
+        [
+          526,
+          276
+        ],
+        [
+          432,
+          276
+        ]
+      ]
+    },
+    {
+      "text": "~gly",
+      "confidence": 0.1496923416852951,
+      "bbox": [
+        [
+          429,
+          166
+        ],
+        [
+          523,
+          135
+        ],
+        [
+          541,
+          198
+        ],
+        [
+          447,
+          228
+        ]
+      ]
+    },
+    {
+      "text": "vocl",
+      "confidence": 0.5668945908546448,
+      "bbox": [
+        [
+          296,
+          159
+        ],
+        [
+          374,
+          152
+        ],
+        [
+          376,
+          191
+        ],
+        [
+          298,
+          198
+        ]
+      ]
+    }
+  ],
+  "total_regions": 8,
+  "avg_confidence": 0.2998800067811313,
+  "medical_analysis": {
+    "drug_keywords": [
+      "g",
+      "l"
+    ],
+    "prescription_indicators": [],
+    "total_medical_terms": 2,
+    "confidence": "Moderate",
+    "is_medical": true
+  },
+  "structured_info": {
+    "dosages": [],
+    "frequencies": [],
+    "durations": []
+  }
+}

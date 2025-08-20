@@ -1,0 +1,16 @@
+# Optional OCR extras (install as needed)
+# NOTE: PaddleOCR and PaddlePaddle may not provide wheels for Python 3.13 on Windows yet.
+# The following pins are guarded to avoid install errors on unsupported Python versions.
+
+# PaddlePaddle CPU (Windows) + PaddleOCR (Python < 3.13)
+paddlepaddle==2.6.1; platform_system == "Windows" and python_version < "3.13"
+paddleocr==2.7.0.3; python_version < "3.13"
+
+# If your environment supports it, newer paddlepaddle versions are available (3.1.x),
+# but verify PaddleOCR compatibility before upgrading.
+# paddlepaddle==3.1.1; platform_system == "Windows" and python_version < "3.13"
+
+# DocTR (optional alternative; requires torch/torchvision and may not support py3.13 yet)
+# python-doctr
+# torch
+# torchvision

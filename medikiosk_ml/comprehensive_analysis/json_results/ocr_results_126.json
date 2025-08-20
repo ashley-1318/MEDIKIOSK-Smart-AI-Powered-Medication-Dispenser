@@ -1,0 +1,493 @@
+{
+  "image_path": "data\\samples\\126.jpg",
+  "success": true,
+  "combined_text": "Name QaeC Date uhiloL Aduress Rz Stiun G dadt 'iod _ t( 26 49 KJabEl Refll 071-1-3-46QRN Generic Substitution Permnitted Allaz MD: Copyright@ American Pharmacists Association PharmacyLibrary: All rights reserved_ Any use is subject to the Terms of Use Suth phmuftan,",
+  "detailed_results": [
+    {
+      "text": "Name",
+      "confidence": 0.9952205419540405,
+      "bbox": [
+        [
+          29,
+          31
+        ],
+        [
+          59,
+          31
+        ],
+        [
+          59,
+          47
+        ],
+        [
+          29,
+          47
+        ]
+      ]
+    },
+    {
+      "text": "QaeC",
+      "confidence": 0.06238580867648125,
+      "bbox": [
+        [
+          146,
+          7
+        ],
+        [
+          227,
+          7
+        ],
+        [
+          227,
+          56
+        ],
+        [
+          146,
+          56
+        ]
+      ]
+    },
+    {
+      "text": "Date",
+      "confidence": 0.9998676180839539,
+      "bbox": [
+        [
+          297,
+          27
+        ],
+        [
+          323,
+          27
+        ],
+        [
+          323,
+          47
+        ],
+        [
+          297,
+          47
+        ]
+      ]
+    },
+    {
+      "text": "uhiloL",
+      "confidence": 0.31005509377052426,
+      "bbox": [
+        [
+          329,
+          17
+        ],
+        [
+          399,
+          17
+        ],
+        [
+          399,
+          53
+        ],
+        [
+          329,
+          53
+        ]
+      ]
+    },
+    {
+      "text": "Aduress",
+      "confidence": 0.6075009677727956,
+      "bbox": [
+        [
+          29,
+          63
+        ],
+        [
+          67,
+          63
+        ],
+        [
+          67,
+          81
+        ],
+        [
+          29,
+          81
+        ]
+      ]
+    },
+    {
+      "text": "Rz",
+      "confidence": 0.2010119012019642,
+      "bbox": [
+        [
+          28,
+          88
+        ],
+        [
+          52,
+          88
+        ],
+        [
+          52,
+          112
+        ],
+        [
+          28,
+          112
+        ]
+      ]
+    },
+    {
+      "text": "Stiun G dadt",
+      "confidence": 0.19235314782346763,
+      "bbox": [
+        [
+          220,
+          87
+        ],
+        [
+          394,
+          87
+        ],
+        [
+          394,
+          144
+        ],
+        [
+          220,
+          144
+        ]
+      ]
+    },
+    {
+      "text": "'iod _",
+      "confidence": 0.11741489769768877,
+      "bbox": [
+        [
+          157,
+          151
+        ],
+        [
+          209,
+          151
+        ],
+        [
+          209,
+          191
+        ],
+        [
+          157,
+          191
+        ]
+      ]
+    },
+    {
+      "text": "t(",
+      "confidence": 0.2290674622904844,
+      "bbox": [
+        [
+          250,
+          140
+        ],
+        [
+          312,
+          140
+        ],
+        [
+          312,
+          194
+        ],
+        [
+          250,
+          194
+        ]
+      ]
+    },
+    {
+      "text": "26",
+      "confidence": 0.08351252658181836,
+      "bbox": [
+        [
+          205,
+          163
+        ],
+        [
+          247,
+          163
+        ],
+        [
+          247,
+          215
+        ],
+        [
+          205,
+          215
+        ]
+      ]
+    },
+    {
+      "text": "49",
+      "confidence": 0.6067289934610348,
+      "bbox": [
+        [
+          154,
+          192
+        ],
+        [
+          220,
+          192
+        ],
+        [
+          220,
+          242
+        ],
+        [
+          154,
+          242
+        ]
+      ]
+    },
+    {
+      "text": "KJabEl",
+      "confidence": 0.15695794587197115,
+      "bbox": [
+        [
+          19,
+          221
+        ],
+        [
+          79,
+          221
+        ],
+        [
+          79,
+          259
+        ],
+        [
+          19,
+          259
+        ]
+      ]
+    },
+    {
+      "text": "Refll 071-1-3-46QRN",
+      "confidence": 0.20389594168555963,
+      "bbox": [
+        [
+          258,
+          224
+        ],
+        [
+          400,
+          224
+        ],
+        [
+          400,
+          256
+        ],
+        [
+          258,
+          256
+        ]
+      ]
+    },
+    {
+      "text": "Generic Substitution Permnitted",
+      "confidence": 0.41364154143696813,
+      "bbox": [
+        [
+          29,
+          261
+        ],
+        [
+          175,
+          261
+        ],
+        [
+          175,
+          281
+        ],
+        [
+          29,
+          281
+        ]
+      ]
+    },
+    {
+      "text": "Allaz",
+      "confidence": 0.09058611977257885,
+      "bbox": [
+        [
+          189,
+          237
+        ],
+        [
+          271,
+          237
+        ],
+        [
+          271,
+          303
+        ],
+        [
+          189,
+          303
+        ]
+      ]
+    },
+    {
+      "text": "MD:",
+      "confidence": 0.29593821462027153,
+      "bbox": [
+        [
+          373,
+          261
+        ],
+        [
+          403,
+          261
+        ],
+        [
+          403,
+          281
+        ],
+        [
+          373,
+          281
+        ]
+      ]
+    },
+    {
+      "text": "Copyright@ American Pharmacists Association PharmacyLibrary:",
+      "confidence": 0.7550937910533813,
+      "bbox": [
+        [
+          0,
+          324
+        ],
+        [
+          355,
+          324
+        ],
+        [
+          355,
+          342
+        ],
+        [
+          0,
+          342
+        ]
+      ]
+    },
+    {
+      "text": "All rights reserved_",
+      "confidence": 0.7714148490006596,
+      "bbox": [
+        [
+          1,
+          341
+        ],
+        [
+          103,
+          341
+        ],
+        [
+          103,
+          357
+        ],
+        [
+          1,
+          357
+        ]
+      ]
+    },
+    {
+      "text": "Any use is subject to the Terms of Use",
+      "confidence": 0.8576934272869892,
+      "bbox": [
+        [
+          107,
+          341
+        ],
+        [
+          317,
+          341
+        ],
+        [
+          317,
+          357
+        ],
+        [
+          107,
+          357
+        ]
+      ]
+    },
+    {
+      "text": "Suth",
+      "confidence": 0.17650183657064053,
+      "bbox": [
+        [
+          71,
+          7
+        ],
+        [
+          150,
+          22
+        ],
+        [
+          141,
+          64
+        ],
+        [
+          62,
+          50
+        ]
+      ]
+    },
+    {
+      "text": "phmuftan,",
+      "confidence": 0.102266497780442,
+      "bbox": [
+        [
+          104,
+          89
+        ],
+        [
+          232,
+          108
+        ],
+        [
+          219,
+          180
+        ],
+        [
+          91,
+          161
+        ]
+      ]
+    }
+  ],
+  "total_regions": 21,
+  "avg_confidence": 0.3918623392568436,
+  "medical_analysis": {
+    "drug_keywords": [
+      "iu",
+      "g",
+      "l",
+      "od"
+    ],
+    "prescription_indicators": [
+      "md",
+      "name",
+      "date",
+      "pharmacy"
+    ],
+    "total_medical_terms": 8,
+    "confidence": "High",
+    "is_medical": true
+  },
+  "structured_info": {
+    "dosages": [],
+    "frequencies": [],
+    "durations": []
+  }
+}

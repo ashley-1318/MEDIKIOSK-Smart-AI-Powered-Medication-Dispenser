@@ -1,0 +1,405 @@
+{
+  "image_path": "data\\samples\\42.jpg",
+  "success": true,
+  "combined_text": "Medical prescription by Klippa Medical Center Lubeckweg 2, 9723HE Groningen; The Netherlands Patient name: Mario Carlos van der Vaart Patient age: 38 Date: 10-01-1015 Paracetamol Ibuprofen Signed by: Or . Bill Andrew Balmer GOmg (5Owg",
+  "detailed_results": [
+    {
+      "text": "Medical prescription by",
+      "confidence": 0.988900438165071,
+      "bbox": [
+        [
+          290,
+          62
+        ],
+        [
+          724,
+          62
+        ],
+        [
+          724,
+          116
+        ],
+        [
+          290,
+          116
+        ]
+      ]
+    },
+    {
+      "text": "Klippa Medical Center",
+      "confidence": 0.6706619462599955,
+      "bbox": [
+        [
+          296,
+          105
+        ],
+        [
+          713,
+          105
+        ],
+        [
+          713,
+          168
+        ],
+        [
+          296,
+          168
+        ]
+      ]
+    },
+    {
+      "text": "Lubeckweg 2, 9723HE",
+      "confidence": 0.9327229761085335,
+      "bbox": [
+        [
+          308,
+          167
+        ],
+        [
+          667,
+          167
+        ],
+        [
+          667,
+          218
+        ],
+        [
+          308,
+          218
+        ]
+      ]
+    },
+    {
+      "text": "Groningen; The Netherlands",
+      "confidence": 0.6604881579696352,
+      "bbox": [
+        [
+          266,
+          209
+        ],
+        [
+          715,
+          209
+        ],
+        [
+          715,
+          263
+        ],
+        [
+          266,
+          263
+        ]
+      ]
+    },
+    {
+      "text": "Patient name:",
+      "confidence": 0.9817408482081543,
+      "bbox": [
+        [
+          61,
+          393
+        ],
+        [
+          291,
+          393
+        ],
+        [
+          291,
+          431
+        ],
+        [
+          61,
+          431
+        ]
+      ]
+    },
+    {
+      "text": "Mario Carlos van der Vaart",
+      "confidence": 0.7619519835352634,
+      "bbox": [
+        [
+          421,
+          392
+        ],
+        [
+          917,
+          392
+        ],
+        [
+          917,
+          432
+        ],
+        [
+          421,
+          432
+        ]
+      ]
+    },
+    {
+      "text": "Patient age:",
+      "confidence": 0.9664066222011476,
+      "bbox": [
+        [
+          58,
+          432
+        ],
+        [
+          262,
+          432
+        ],
+        [
+          262,
+          480
+        ],
+        [
+          58,
+          480
+        ]
+      ]
+    },
+    {
+      "text": "38",
+      "confidence": 0.822381079341281,
+      "bbox": [
+        [
+          421,
+          433
+        ],
+        [
+          471,
+          433
+        ],
+        [
+          471,
+          471
+        ],
+        [
+          421,
+          471
+        ]
+      ]
+    },
+    {
+      "text": "Date:",
+      "confidence": 0.8046355075052963,
+      "bbox": [
+        [
+          61,
+          477
+        ],
+        [
+          151,
+          477
+        ],
+        [
+          151,
+          515
+        ],
+        [
+          61,
+          515
+        ]
+      ]
+    },
+    {
+      "text": "10-01-1015",
+      "confidence": 0.5283837706596322,
+      "bbox": [
+        [
+          419,
+          473
+        ],
+        [
+          623,
+          473
+        ],
+        [
+          623,
+          515
+        ],
+        [
+          419,
+          515
+        ]
+      ]
+    },
+    {
+      "text": "Paracetamol",
+      "confidence": 0.9990972401068358,
+      "bbox": [
+        [
+          423,
+          622
+        ],
+        [
+          703,
+          622
+        ],
+        [
+          703,
+          684
+        ],
+        [
+          423,
+          684
+        ]
+      ]
+    },
+    {
+      "text": "Ibuprofen",
+      "confidence": 0.9829086425094685,
+      "bbox": [
+        [
+          423,
+          703
+        ],
+        [
+          661,
+          703
+        ],
+        [
+          661,
+          765
+        ],
+        [
+          423,
+          765
+        ]
+      ]
+    },
+    {
+      "text": "Signed by:",
+      "confidence": 0.999660238502337,
+      "bbox": [
+        [
+          54,
+          972
+        ],
+        [
+          234,
+          972
+        ],
+        [
+          234,
+          1020
+        ],
+        [
+          54,
+          1020
+        ]
+      ]
+    },
+    {
+      "text": "Or .",
+      "confidence": 0.7307398915290833,
+      "bbox": [
+        [
+          53,
+          1057
+        ],
+        [
+          107,
+          1057
+        ],
+        [
+          107,
+          1101
+        ],
+        [
+          53,
+          1101
+        ]
+      ]
+    },
+    {
+      "text": "Bill Andrew Balmer",
+      "confidence": 0.9216101075270706,
+      "bbox": [
+        [
+          120,
+          1052
+        ],
+        [
+          498,
+          1052
+        ],
+        [
+          498,
+          1102
+        ],
+        [
+          120,
+          1102
+        ]
+      ]
+    },
+    {
+      "text": "GOmg",
+      "confidence": 0.6380739212036133,
+      "bbox": [
+        [
+          755,
+          619
+        ],
+        [
+          882,
+          644
+        ],
+        [
+          867,
+          705
+        ],
+        [
+          740,
+          679
+        ]
+      ]
+    },
+    {
+      "text": "(5Owg",
+      "confidence": 0.44235168961757754,
+      "bbox": [
+        [
+          710,
+          692
+        ],
+        [
+          851,
+          720
+        ],
+        [
+          836,
+          784
+        ],
+        [
+          695,
+          756
+        ]
+      ]
+    }
+  ],
+  "total_regions": 17,
+  "avg_confidence": 0.8136891212323527,
+  "medical_analysis": {
+    "drug_keywords": [
+      "mg",
+      "g",
+      "l"
+    ],
+    "prescription_indicators": [
+      "prescription",
+      "patient",
+      "name",
+      "age",
+      "date"
+    ],
+    "total_medical_terms": 8,
+    "confidence": "High",
+    "is_medical": true
+  },
+  "structured_info": {
+    "dosages": [],
+    "frequencies": [],
+    "durations": []
+  }
+}

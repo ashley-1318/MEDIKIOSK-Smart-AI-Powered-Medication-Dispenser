@@ -1,0 +1,133 @@
+{
+  "image_path": "data\\samples\\35.jpg",
+  "success": true,
+  "combined_text": "Reczived dhll Fll Lizsks Or",
+  "detailed_results": [
+    {
+      "text": "Reczived",
+      "confidence": 0.6646967843389001,
+      "bbox": [
+        [
+          9,
+          41
+        ],
+        [
+          59,
+          41
+        ],
+        [
+          59,
+          55
+        ],
+        [
+          9,
+          55
+        ]
+      ]
+    },
+    {
+      "text": "dhll",
+      "confidence": 0.062215469777584076,
+      "bbox": [
+        [
+          180,
+          64
+        ],
+        [
+          204,
+          64
+        ],
+        [
+          204,
+          72
+        ],
+        [
+          180,
+          72
+        ]
+      ]
+    },
+    {
+      "text": "Fll",
+      "confidence": 0.08014600822362172,
+      "bbox": [
+        [
+          51,
+          77
+        ],
+        [
+          89,
+          77
+        ],
+        [
+          89,
+          97
+        ],
+        [
+          51,
+          97
+        ]
+      ]
+    },
+    {
+      "text": "Lizsks",
+      "confidence": 0.1812108481803514,
+      "bbox": [
+        [
+          129,
+          91
+        ],
+        [
+          206,
+          91
+        ],
+        [
+          206,
+          117
+        ],
+        [
+          129,
+          117
+        ]
+      ]
+    },
+    {
+      "text": "Or",
+      "confidence": 0.23299087310547034,
+      "bbox": [
+        [
+          38,
+          134
+        ],
+        [
+          62,
+          134
+        ],
+        [
+          62,
+          142
+        ],
+        [
+          38,
+          142
+        ]
+      ]
+    }
+  ],
+  "total_regions": 5,
+  "avg_confidence": 0.24425199672518555,
+  "medical_analysis": {
+    "drug_keywords": [
+      "l"
+    ],
+    "prescription_indicators": [],
+    "total_medical_terms": 1,
+    "confidence": "Low",
+    "is_medical": false
+  },
+  "structured_info": {
+    "dosages": [],
+    "frequencies": [],
+    "durations": []
+  }
+}

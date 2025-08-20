@@ -1,0 +1,94 @@
+entity_type,entity,count,percentage
+drugs,insulin,1,0.8928571428571428
+drugs,paracetamol,1,0.8928571428571428
+drugs,ibuprofen,1,0.8928571428571428
+drugs,vitamin,1,0.8928571428571428
+drugs,azithromycin,1,0.8928571428571428
+drugs,ferrous,1,0.8928571428571428
+dosages,3 l,2,1.7857142857142856
+dosages,2 g,1,0.8928571428571428
+dosages,0 l,4,3.571428571428571
+dosages,4 l,2,1.7857142857142856
+dosages,000 %,1,0.8928571428571428
+dosages,2 l,1,0.8928571428571428
+dosages,8 l,1,0.8928571428571428
+dosages,100 ml,1,0.8928571428571428
+dosages,60 l,1,0.8928571428571428
+dosages,20 mg,1,0.8928571428571428
+dosages,2 ml,1,0.8928571428571428
+dosages,1 g,2,1.7857142857142856
+dosages,7 %,1,0.8928571428571428
+dosages,1 l,4,3.571428571428571
+dosages,347 l,1,0.8928571428571428
+dosages,8 %,1,0.8928571428571428
+dosages,6 %,1,0.8928571428571428
+dosages,15 ml,1,0.8928571428571428
+dosages,4.5 ml,1,0.8928571428571428
+dosages,30 ml,1,0.8928571428571428
+dosages,4 ml,1,0.8928571428571428
+frequencies,od,4,3.571428571428571
+frequencies,tds,1,0.8928571428571428
+frequencies,morning,2,1.7857142857142856
+frequencies,evening,1,0.8928571428571428
+frequencies,tid,3,2.6785714285714284
+frequencies,bid,1,0.8928571428571428
+frequencies,bd,1,0.8928571428571428
+durations,41 week,1,0.8928571428571428
+durations,5412 months,1,0.8928571428571428
+durations,1 week,1,0.8928571428571428
+durations,6 months,1,0.8928571428571428
+routes,iv,34,30.357142857142854
+routes,po,35,31.25
+routes,sc,27,24.107142857142858
+routes,im,36,32.142857142857146
+routes,oral,1,0.8928571428571428
+routes,otic,1,0.8928571428571428
+doctors,dr b,3,2.6785714285714284
+doctors,dr. w,1,0.8928571428571428
+doctors,dr. shalina voayac elsis a,1,0.8928571428571428
+doctors,dr n,1,0.8928571428571428
+doctors,doctor prescription nchit name,1,0.8928571428571428
+doctors,dr. baba sahebambedkar hospital,1,0.8928571428571428
+doctors,doctor lay diubfexe kavy,1,0.8928571428571428
+doctors,dr b who farmstreet,3,2.6785714285714284
+doctors,dr allyed saul dispense as written may substitute chicago,1,0.8928571428571428
+doctors,dr suileedth,1,0.8928571428571428
+doctors,dr mahcsh kumar rovoorl jsm nu slaik mdns,1,0.8928571428571428
+doctors,doctor t,1,0.8928571428571428
+doctors,dr jeue,2,1.7857142857142856
+doctors,dr tb,1,0.8928571428571428
+doctors,dr jayaprakash hebbar mbbs,1,0.8928571428571428
+doctors,dr b who farmslreet,1,0.8928571428571428
+doctors,dr. sudip mhuseac,1,0.8928571428571428
+doctors,dr. sampurna ghosh consultant ent,1,0.8928571428571428
+doctors,dr. sampurna ghosh apnea,1,0.8928571428571428
+doctors,doctor immediately ph,1,0.8928571428571428
+hospitals,sir ganga ram hospital,1,0.8928571428571428
+hospitals,raj kamal agarwal sir ganga ram hospital,1,0.8928571428571428
+hospitals,pain peri operative medicine sir ganga ram kolmet hospital,1,0.8928571428571428
+hospitals,code diagnosis emergencyicasualty registratioa card bhagwan mahavir hospital,1,0.8928571428571428
+hospitals,m manipal hospital,1,0.8928571428571428
+hospitals,ctna citderspfciality hospital,1,0.8928571428571428
+hospitals,netaji subhas chandra bose cancer hospital,1,0.8928571428571428
+hospitals,baba sahebambedkar hospital,1,0.8928571428571428
+hospitals,in clinic,1,0.8928571428571428
+hospitals,medical center hospital,3,2.6785714285714284
+hospitals,nanavati super speciality hospital,1,0.8928571428571428
+hospitals,balabhai nanavati hospital,1,0.8928571428571428
+hospitals,p d hinduja hospital,1,0.8928571428571428
+hospitals,obesity clinic,1,0.8928571428571428
+hospitals,medical prescription by klippa medical center,1,0.8928571428571428
+hospitals,fortis opd consultation foitis dentr fit aocrajan druall hospital,1,0.8928571428571428
+hospitals,fortis speciality hospital,1,0.8928571428571428
+hospitals,university medical center,1,0.8928571428571428
+hospitals,msc manila doctorb hospital,1,0.8928571428571428
+hospitals,preethi child clinic,1,0.8928571428571428
+hospitals,children hospital,1,0.8928571428571428
+hospitals,petual succour hospital,1,0.8928571428571428
+specialties,gastroenterology,1,0.8928571428571428
+specialties,ent,46,41.07142857142857
+specialties,surgery,2,1.7857142857142856
+specialties,internal,1,0.8928571428571428
+specialties,oncology,1,0.8928571428571428
+specialties,general,5,4.464285714285714
+specialties,pediatrics,1,0.8928571428571428

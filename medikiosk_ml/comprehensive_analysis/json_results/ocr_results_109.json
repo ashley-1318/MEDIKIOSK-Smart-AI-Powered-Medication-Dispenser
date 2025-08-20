@@ -1,0 +1,488 @@
+{
+  "image_path": "data\\samples\\109.jpg",
+  "success": true,
+  "combined_text": "Mcdicine ALEvoI2S /Lskco Dcx anca Fmcnucn Heull (5 gnaturc Oxoile 12\"0 4ictp 7LF GMCNo_ 12XEel Indiaatlon Additional Instnuqnns eVCcopA Cnxeiia ELMACAPOAC Meulaines Rrroncilialion Icird€ chanac Incciico Oeasen",
+  "detailed_results": [
+    {
+      "text": "Mcdicine",
+      "confidence": 0.45255949397703665,
+      "bbox": [
+        [
+          6,
+          6
+        ],
+        [
+          44,
+          6
+        ],
+        [
+          44,
+          14
+        ],
+        [
+          6,
+          14
+        ]
+      ]
+    },
+    {
+      "text": "ALEvoI2S /Lskco",
+      "confidence": 0.5679413349403731,
+      "bbox": [
+        [
+          46,
+          9
+        ],
+        [
+          245,
+          9
+        ],
+        [
+          245,
+          36
+        ],
+        [
+          46,
+          36
+        ]
+      ]
+    },
+    {
+      "text": "Dcx",
+      "confidence": 0.289882093667984,
+      "bbox": [
+        [
+          6,
+          32
+        ],
+        [
+          28,
+          32
+        ],
+        [
+          28,
+          40
+        ],
+        [
+          6,
+          40
+        ]
+      ]
+    },
+    {
+      "text": "anca",
+      "confidence": 0.19501565396785736,
+      "bbox": [
+        [
+          166,
+          32
+        ],
+        [
+          194,
+          32
+        ],
+        [
+          194,
+          38
+        ],
+        [
+          166,
+          38
+        ]
+      ]
+    },
+    {
+      "text": "Fmcnucn",
+      "confidence": 0.12930251088295064,
+      "bbox": [
+        [
+          208,
+          32
+        ],
+        [
+          248,
+          32
+        ],
+        [
+          248,
+          38
+        ],
+        [
+          208,
+          38
+        ]
+      ]
+    },
+    {
+      "text": "Heull",
+      "confidence": 0.44984044240347426,
+      "bbox": [
+        [
+          166,
+          42
+        ],
+        [
+          213,
+          42
+        ],
+        [
+          213,
+          62
+        ],
+        [
+          166,
+          62
+        ]
+      ]
+    },
+    {
+      "text": "(5 gnaturc",
+      "confidence": 0.29362006108647115,
+      "bbox": [
+        [
+          4,
+          58
+        ],
+        [
+          47,
+          58
+        ],
+        [
+          47,
+          72
+        ],
+        [
+          4,
+          72
+        ]
+      ]
+    },
+    {
+      "text": "Oxoile",
+      "confidence": 0.3363603591222661,
+      "bbox": [
+        [
+          55,
+          61
+        ],
+        [
+          113,
+          61
+        ],
+        [
+          113,
+          79
+        ],
+        [
+          55,
+          79
+        ]
+      ]
+    },
+    {
+      "text": "12\"0",
+      "confidence": 0.5396356582641602,
+      "bbox": [
+        [
+          261,
+          63
+        ],
+        [
+          283,
+          63
+        ],
+        [
+          283,
+          77
+        ],
+        [
+          261,
+          77
+        ]
+      ]
+    },
+    {
+      "text": "4ictp",
+      "confidence": 0.13540275139129673,
+      "bbox": [
+        [
+          8,
+          78
+        ],
+        [
+          30,
+          78
+        ],
+        [
+          30,
+          86
+        ],
+        [
+          8,
+          86
+        ]
+      ]
+    },
+    {
+      "text": "7LF",
+      "confidence": 0.17736101150512695,
+      "bbox": [
+        [
+          66,
+          78
+        ],
+        [
+          88,
+          78
+        ],
+        [
+          88,
+          86
+        ],
+        [
+          66,
+          86
+        ]
+      ]
+    },
+    {
+      "text": "GMCNo_ 12XEel",
+      "confidence": 0.10028202371631524,
+      "bbox": [
+        [
+          131,
+          73
+        ],
+        [
+          241,
+          73
+        ],
+        [
+          241,
+          89
+        ],
+        [
+          131,
+          89
+        ]
+      ]
+    },
+    {
+      "text": "Indiaatlon",
+      "confidence": 0.268465178176782,
+      "bbox": [
+        [
+          8,
+          90
+        ],
+        [
+          48,
+          90
+        ],
+        [
+          48,
+          98
+        ],
+        [
+          8,
+          98
+        ]
+      ]
+    },
+    {
+      "text": "Additional Instnuqnns",
+      "confidence": 0.1889221266192858,
+      "bbox": [
+        [
+          58,
+          90
+        ],
+        [
+          148,
+          90
+        ],
+        [
+          148,
+          98
+        ],
+        [
+          58,
+          98
+        ]
+      ]
+    },
+    {
+      "text": "eVCcopA",
+      "confidence": 0.19653398798755164,
+      "bbox": [
+        [
+          25,
+          99
+        ],
+        [
+          93,
+          99
+        ],
+        [
+          93,
+          113
+        ],
+        [
+          25,
+          113
+        ]
+      ]
+    },
+    {
+      "text": "Cnxeiia",
+      "confidence": 0.15775876207195705,
+      "bbox": [
+        [
+          19,
+          109
+        ],
+        [
+          103,
+          109
+        ],
+        [
+          103,
+          125
+        ],
+        [
+          19,
+          125
+        ]
+      ]
+    },
+    {
+      "text": "ELMACAPOAC",
+      "confidence": 0.13073669768435645,
+      "bbox": [
+        [
+          18,
+          121
+        ],
+        [
+          131,
+          121
+        ],
+        [
+          131,
+          140
+        ],
+        [
+          18,
+          140
+        ]
+      ]
+    },
+    {
+      "text": "Meulaines Rrroncilialion Icird€",
+      "confidence": 0.08882499458395152,
+      "bbox": [
+        [
+          66,
+          136
+        ],
+        [
+          194,
+          136
+        ],
+        [
+          194,
+          144
+        ],
+        [
+          66,
+          144
+        ]
+      ]
+    },
+    {
+      "text": "chanac",
+      "confidence": 0.9149683367856328,
+      "bbox": [
+        [
+          22,
+          152
+        ],
+        [
+          52,
+          152
+        ],
+        [
+          52,
+          160
+        ],
+        [
+          22,
+          160
+        ]
+      ]
+    },
+    {
+      "text": "Incciico",
+      "confidence": 0.127366409986858,
+      "bbox": [
+        [
+          84,
+          148
+        ],
+        [
+          122,
+          148
+        ],
+        [
+          122,
+          156
+        ],
+        [
+          84,
+          156
+        ]
+      ]
+    },
+    {
+      "text": "Oeasen",
+      "confidence": 0.04867334103194137,
+      "bbox": [
+        [
+          158,
+          148
+        ],
+        [
+          188,
+          148
+        ],
+        [
+          188,
+          154
+        ],
+        [
+          158,
+          154
+        ]
+      ]
+    }
+  ],
+  "total_regions": 21,
+  "avg_confidence": 0.27568824904064904,
+  "medical_analysis": {
+    "drug_keywords": [
+      "gm",
+      "g",
+      "l",
+      "po"
+    ],
+    "prescription_indicators": [],
+    "total_medical_terms": 4,
+    "confidence": "Moderate",
+    "is_medical": true
+  },
+  "structured_info": {
+    "dosages": [],
+    "frequencies": [],
+    "durations": []
+  }
+}

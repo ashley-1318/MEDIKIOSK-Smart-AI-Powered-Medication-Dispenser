@@ -1,0 +1,222 @@
+{
+  "image_path": "data\\samples\\22.jpg",
+  "success": true,
+  "combined_text": "WILLIAM LEWIS TOWNS, M, D 8843 Cunmau Adarei {apr77, \"&,\" Rapo5,eii cbirton  TY ' VA",
+  "detailed_results": [
+    {
+      "text": "WILLIAM LEWIS TOWNS,",
+      "confidence": 0.7419512344916006,
+      "bbox": [
+        [
+          117,
+          31
+        ],
+        [
+          265,
+          31
+        ],
+        [
+          265,
+          43
+        ],
+        [
+          117,
+          43
+        ]
+      ]
+    },
+    {
+      "text": "M, D",
+      "confidence": 0.5172434616748611,
+      "bbox": [
+        [
+          269,
+          31
+        ],
+        [
+          301,
+          31
+        ],
+        [
+          301,
+          45
+        ],
+        [
+          269,
+          45
+        ]
+      ]
+    },
+    {
+      "text": "8843",
+      "confidence": 0.044143106788396835,
+      "bbox": [
+        [
+          306,
+          28
+        ],
+        [
+          352,
+          28
+        ],
+        [
+          352,
+          54
+        ],
+        [
+          306,
+          54
+        ]
+      ]
+    },
+    {
+      "text": "Cunmau",
+      "confidence": 0.009260621303525824,
+      "bbox": [
+        [
+          214,
+          44
+        ],
+        [
+          250,
+          44
+        ],
+        [
+          250,
+          50
+        ],
+        [
+          214,
+          50
+        ]
+      ]
+    },
+    {
+      "text": "Adarei",
+      "confidence": 0.029928211402504068,
+      "bbox": [
+        [
+          26,
+          82
+        ],
+        [
+          58,
+          82
+        ],
+        [
+          58,
+          90
+        ],
+        [
+          26,
+          90
+        ]
+      ]
+    },
+    {
+      "text": "{apr77, \"&,\" Rapo5,eii",
+      "confidence": 0.0003778342953899808,
+      "bbox": [
+        [
+          127,
+          273
+        ],
+        [
+          287,
+          273
+        ],
+        [
+          287,
+          291
+        ],
+        [
+          127,
+          291
+        ]
+      ]
+    },
+    {
+      "text": "cbirton ",
+      "confidence": 0.3068171818664117,
+      "bbox": [
+        [
+          305,
+          275
+        ],
+        [
+          333,
+          275
+        ],
+        [
+          333,
+          289
+        ],
+        [
+          305,
+          289
+        ]
+      ]
+    },
+    {
+      "text": "TY '",
+      "confidence": 0.19451408088207245,
+      "bbox": [
+        [
+          279,
+          291
+        ],
+        [
+          307,
+          291
+        ],
+        [
+          307,
+          305
+        ],
+        [
+          279,
+          305
+        ]
+      ]
+    },
+    {
+      "text": "VA",
+      "confidence": 0.01683235767218235,
+      "bbox": [
+        [
+          240,
+          287
+        ],
+        [
+          272,
+          293
+        ],
+        [
+          269,
+          307
+        ],
+        [
+          237,
+          301
+        ]
+      ]
+    }
+  ],
+  "total_regions": 9,
+  "avg_confidence": 0.20678534337521612,
+  "medical_analysis": {
+    "drug_keywords": [
+      "l",
+      "po"
+    ],
+    "prescription_indicators": [],
+    "total_medical_terms": 2,
+    "confidence": "Moderate",
+    "is_medical": true
+  },
+  "structured_info": {
+    "dosages": [],
+    "frequencies": [],
+    "durations": []
+  }
+}

@@ -1,0 +1,43 @@
+# Core
+numpy>=1.26
+pandas>=2.2
+pydantic>=2.7
+python-dateutil
+orjson
+rich
+
+# Vision/OCR (light defaults; heavy models optional)
+# pillow is light and handy
+pillow>=10.3
+# Optional advanced OCR backends (install when needed)
+# opencv-python>=4.9
+# pytesseract>=0.3.10
+# Optional advanced OCR backends (install when needed)
+# paddleocr
+# python-doctr
+# transformers[torch]>=4.41
+# torch>=2.2
+# torchvision>=0.17
+# ultralytics>=8.2
+datasets>=2.19
+evaluate>=0.4
+accelerate>=0.30
+scikit-learn>=1.5
+tensorboard>=2.16
+
+# NLP
+regex
+rapidfuzz
+
+# Serving / CLI
+typer[all]>=0.12
+uvicorn>=0.30
+fastapi>=0.111
+
+# Quantization/ONNX (optional)
+# onnxruntime>=1.18
+# onnx>=1.16
+# Vision/OCR (optional; install when needed)
+# opencv-python>=4.9
+# pillow>=10.3
+# pytesseract>=0.3.10

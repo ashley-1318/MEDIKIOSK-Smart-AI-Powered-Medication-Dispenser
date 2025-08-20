@@ -1,0 +1,376 @@
+{
+  "image_path": "data\\samples\\117.jpg",
+  "success": true,
+  "combined_text": "NeVceap ^ DEVICE FLex (tn Zam Sinna Phar rlacy: i22M Puntnerni \"Stan Gute Lpm. mutm 2141 Mpiche Kaltntta #ecnidinoorr Omitted doses of insulin",
+  "detailed_results": [
+    {
+      "text": "NeVceap ^",
+      "confidence": 0.05601933832059348,
+      "bbox": [
+        [
+          13,
+          16
+        ],
+        [
+          95,
+          16
+        ],
+        [
+          95,
+          34
+        ],
+        [
+          13,
+          34
+        ]
+      ]
+    },
+    {
+      "text": "DEVICE",
+      "confidence": 0.6585000239524075,
+      "bbox": [
+        [
+          7,
+          35
+        ],
+        [
+          39,
+          35
+        ],
+        [
+          39,
+          47
+        ],
+        [
+          7,
+          47
+        ]
+      ]
+    },
+    {
+      "text": "FLex (tn",
+      "confidence": 0.1095982432458098,
+      "bbox": [
+        [
+          53,
+          37
+        ],
+        [
+          117,
+          37
+        ],
+        [
+          117,
+          51
+        ],
+        [
+          53,
+          51
+        ]
+      ]
+    },
+    {
+      "text": "Zam",
+      "confidence": 0.2124850134095707,
+      "bbox": [
+        [
+          155,
+          47
+        ],
+        [
+          181,
+          47
+        ],
+        [
+          181,
+          61
+        ],
+        [
+          155,
+          61
+        ]
+      ]
+    },
+    {
+      "text": "Sinna",
+      "confidence": 0.21046698389112908,
+      "bbox": [
+        [
+          6,
+          58
+        ],
+        [
+          28,
+          58
+        ],
+        [
+          28,
+          66
+        ],
+        [
+          6,
+          66
+        ]
+      ]
+    },
+    {
+      "text": "Phar rlacy:",
+      "confidence": 0.1443443314106515,
+      "bbox": [
+        [
+          102,
+          56
+        ],
+        [
+          147,
+          56
+        ],
+        [
+          147,
+          69
+        ],
+        [
+          102,
+          69
+        ]
+      ]
+    },
+    {
+      "text": "i22M",
+      "confidence": 0.0637093111872673,
+      "bbox": [
+        [
+          155,
+          71
+        ],
+        [
+          181,
+          71
+        ],
+        [
+          181,
+          83
+        ],
+        [
+          155,
+          83
+        ]
+      ]
+    },
+    {
+      "text": "Puntnerni",
+      "confidence": 0.051224294535241986,
+      "bbox": [
+        [
+          2,
+          94
+        ],
+        [
+          48,
+          94
+        ],
+        [
+          48,
+          102
+        ],
+        [
+          2,
+          102
+        ]
+      ]
+    },
+    {
+      "text": "\"Stan Gute",
+      "confidence": 0.004870667331986638,
+      "bbox": [
+        [
+          102,
+          96
+        ],
+        [
+          144,
+          96
+        ],
+        [
+          144,
+          102
+        ],
+        [
+          102,
+          102
+        ]
+      ]
+    },
+    {
+      "text": "Lpm.",
+      "confidence": 0.17805345356464386,
+      "bbox": [
+        [
+          157,
+          99
+        ],
+        [
+          183,
+          99
+        ],
+        [
+          183,
+          113
+        ],
+        [
+          157,
+          113
+        ]
+      ]
+    },
+    {
+      "text": "mutm",
+      "confidence": 0.2938375174999237,
+      "bbox": [
+        [
+          28,
+          104
+        ],
+        [
+          83,
+          104
+        ],
+        [
+          83,
+          122
+        ],
+        [
+          28,
+          122
+        ]
+      ]
+    },
+    {
+      "text": "2141",
+      "confidence": 0.3515436351299286,
+      "bbox": [
+        [
+          103,
+          111
+        ],
+        [
+          143,
+          111
+        ],
+        [
+          143,
+          127
+        ],
+        [
+          103,
+          127
+        ]
+      ]
+    },
+    {
+      "text": "Mpiche",
+      "confidence": 0.06816114245323146,
+      "bbox": [
+        [
+          30,
+          128
+        ],
+        [
+          54,
+          128
+        ],
+        [
+          54,
+          134
+        ],
+        [
+          30,
+          134
+        ]
+      ]
+    },
+    {
+      "text": "Kaltntta",
+      "confidence": 0.01145197113028601,
+      "bbox": [
+        [
+          68,
+          128
+        ],
+        [
+          98,
+          128
+        ],
+        [
+          98,
+          134
+        ],
+        [
+          68,
+          134
+        ]
+      ]
+    },
+    {
+      "text": "#ecnidinoorr",
+      "confidence": 0.008740556615129447,
+      "bbox": [
+        [
+          226,
+          128
+        ],
+        [
+          278,
+          128
+        ],
+        [
+          278,
+          134
+        ],
+        [
+          226,
+          134
+        ]
+      ]
+    },
+    {
+      "text": "Omitted doses of insulin",
+      "confidence": 0.8022923225667705,
+      "bbox": [
+        [
+          169,
+          139
+        ],
+        [
+          315,
+          139
+        ],
+        [
+          315,
+          153
+        ],
+        [
+          169,
+          153
+        ]
+      ]
+    }
+  ],
+  "total_regions": 16,
+  "avg_confidence": 0.20158117539028572,
+  "medical_analysis": {
+    "drug_keywords": [
+      "g",
+      "l"
+    ],
+    "prescription_indicators": [],
+    "total_medical_terms": 2,
+    "confidence": "Moderate",
+    "is_medical": true
+  },
+  "structured_info": {
+    "dosages": [],
+    "frequencies": [],
+    "durations": []
+  }
+}
