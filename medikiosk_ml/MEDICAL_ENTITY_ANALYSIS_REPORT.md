@@ -85,8 +85,8 @@ Total Prescriptions Analyzed: 112
   general              |   5 |   4.5%
   surgery              |   2 |   1.8%
   gastroenterology     |   1 |   0.9%
-  internal             |   1 |   0.9%
   oncology             |   1 |   0.9%
+  internal             |   1 |   0.9%
   pediatrics           |   1 |   0.9%
 
 📋 PRESCRIPTION COMPLEXITY ANALYSIS

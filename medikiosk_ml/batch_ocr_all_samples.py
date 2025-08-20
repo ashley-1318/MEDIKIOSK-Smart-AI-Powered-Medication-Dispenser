@@ -190,7 +190,7 @@ def process_all_images():
             print(f"   📊 Progress: {i}/{len(image_files)} ({i/len(image_files)*100:.1f}%) - ETA: {remaining/60:.1f} min")
     
     end_time = time.time()
-    processing_stats["processing_time"] = end_time - start_time
+    processing_stats["processing_time"] = int(end_time - start_time)
     
     # Save results
     save_results(all_results, medical_prescriptions, processing_stats)
@@ -275,9 +275,10 @@ def generate_summary(stats: Dict, medical_prescriptions: List[Dict]):
                 if isinstance(freq_data, tuple) and len(freq_data) > 0:
                     frequencies[freq_data[0]] += 1
         
-        print(f"📊 Most common drug names: {dict(list(drug_names.most_common(5)))}")
-        print(f"📊 Most common dosage units: {dict(list(dosage_units.most_common(5)))}")
-        print(f"📊 Most common frequencies: {dict(list(frequencies.most_common(5)))}")
+        from collections import Counter
+        print(f"📊 Most common drug names: {dict(list(Counter(drug_names).most_common(5)))}")
+        print(f"📊 Most common dosage units: {dict(list(Counter(dosage_units).most_common(5)))}")
+        print(f"📊 Most common frequencies: {dict(list(Counter(frequencies).most_common(5)))}")
         
         # Show sample prescriptions
         print(f"\n📋 SAMPLE PRESCRIPTIONS:")

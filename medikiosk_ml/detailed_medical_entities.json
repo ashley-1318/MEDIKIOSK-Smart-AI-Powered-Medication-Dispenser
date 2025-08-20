@@ -49,8 +49,8 @@
     "routes": {
       "iv": 34,
       "po": 35,
-      "sc": 27,
       "im": 36,
+      "sc": 27,
       "oral": 1,
       "otic": 1
     },
@@ -101,11 +101,11 @@
       "petual succour hospital": 1
     },
     "specialties": {
-      "gastroenterology": 1,
       "ent": 46,
+      "gastroenterology": 1,
       "surgery": 2,
-      "internal": 1,
       "oncology": 1,
+      "internal": 1,
       "general": 5,
       "pediatrics": 1
     }
@@ -143,8 +143,8 @@
         "doctors": [],
         "hospitals": [],
         "specialties": [
-          "gastroenterology",
-          "ent"
+          "ent",
+          "gastroenterology"
         ]
       },
       "text_preview": "Dr; MRCP (Uk) FrCA iatuese Corsultant '[Oantro! CCT (Gasto) Livat Ttanuplant #euems\"b Apollo [GastRoenteroLoGy No: 46200 Gastroenterologisl] anaetansplanl Hepaloloqist 040 2360 77 / Fot Extn 4005i4 Em..."
@@ -177,8 +177,8 @@
         "frequencies": [],
         "durations": [],
         "routes": [
-          "sc",
-          "im"
+          "im",
+          "sc"
         ],
         "doctors": [],
         "hospitals": [],
@@ -276,8 +276,8 @@
         ],
         "durations": [],
         "routes": [
-          "iv",
-          "im"
+          "im",
+          "iv"
         ],
         "doctors": [],
         "hospitals": [
@@ -394,8 +394,8 @@
         "frequencies": [],
         "durations": [],
         "routes": [
-          "iv",
-          "im"
+          "im",
+          "iv"
         ],
         "doctors": [],
         "hospitals": [],
@@ -421,8 +421,8 @@
           "M Manipal Hospital"
         ],
         "specialties": [
-          "surgery",
-          "ent"
+          "ent",
+          "surgery"
         ]
       },
       "text_preview": "M Manipal Hospital Manipal i*spiaeooy LIFC Dr. Shalina VoaYAc ELSIS A ^ JLO; *S (ENT) MACS (London) DOHNS (London) NT Consulni 66y' Hosc N; 1 588893 4 Ly AiPasomal AAPHo FePECNJ Ly [6 VIALs (eeyl 1 dn..."
@@ -436,8 +436,8 @@
         "frequencies": [],
         "durations": [],
         "routes": [
-          "sc",
-          "po"
+          "po",
+          "sc"
         ],
         "doctors": [
           "Dr N"
@@ -494,9 +494,9 @@
         "frequencies": [],
         "durations": [],
         "routes": [
+          "im",
           "iv",
-          "po",
-          "im"
+          "po"
         ],
         "doctors": [],
         "hospitals": [],
@@ -564,11 +564,11 @@
         "frequencies": [],
         "durations": [],
         "routes": [
+          "im",
           "iv",
-          "sc",
           "oral",
           "po",
-          "im"
+          "sc"
         ],
         "doctors": [
           "Doctor Prescription NchiT Name"
@@ -577,8 +577,8 @@
           "NETAJI SUBHAS CHANDRA BOSE CANCER HOSPITAL"
         ],
         "specialties": [
-          "internal",
           "oncology",
+          "internal",
           "ent"
         ]
       },
@@ -593,9 +593,9 @@
         "frequencies": [],
         "durations": [],
         "routes": [
+          "im",
           "iv",
-          "sc",
-          "im"
+          "sc"
         ],
         "doctors": [],
         "hospitals": [],
@@ -646,9 +646,9 @@
         ],
         "durations": [],
         "routes": [
+          "im",
           "iv",
-          "po",
-          "im"
+          "po"
         ],
         "doctors": [
           "DR. BABA SAHEBAMBEDKAR HOSPITAL",
@@ -658,8 +658,8 @@
           "BABA SAHEBAMBEDKAR HOSPITAL"
         ],
         "specialties": [
-          "general",
-          "ent"
+          "ent",
+          "general"
         ]
       },
       "text_preview": "DR. BABA SAHEBAMBEDKAR HOSPITAL, ROHINI Gcvt of National Capltal Territory of Delhi-110085 EMERGENCY REGISTRATION CARD Dalc Timc July 18,2021 9.19.11 AM IST MLCIMLCNO Ernr Rcgn No DBSAE.J06O3; Age Nar..."
@@ -770,8 +770,8 @@
         "doctors": [],
         "hospitals": [],
         "specialties": [
-          "general",
-          "ent"
+          "ent",
+          "general"
         ]
       },
       "text_preview": "Smile Designing Teeth Whitening THE CJHITE TUSK Dental Implants General Dentistry @O/whitetuskdental CLx ' Sachn LSansoae 28/m R Tab - Aujnenturi 6 25 n A Enzzlrn PanD 4 {Tab 0 Adu: Hexiqel Turn 1 (es..."
@@ -855,8 +855,8 @@
         "frequencies": [],
         "durations": [],
         "routes": [
-          "sc",
-          "po"
+          "po",
+          "sc"
         ],
         "doctors": [],
         "hospitals": [],
@@ -944,8 +944,8 @@
         "frequencies": [],
         "durations": [],
         "routes": [
-          "po",
-          "im"
+          "im",
+          "po"
         ],
         "doctors": [],
         "hospitals": [
@@ -969,10 +969,10 @@
         "frequencies": [],
         "durations": [],
         "routes": [
+          "im",
           "iv",
-          "sc",
           "po",
-          "im"
+          "sc"
         ],
         "doctors": [],
         "hospitals": [],
@@ -1049,8 +1049,8 @@
         "doctors": [],
         "hospitals": [],
         "specialties": [
-          "general",
-          "ent"
+          "ent",
+          "general"
         ]
       },
       "text_preview": "Smile Designing Teeth Whitening THE CJHItE TUSK Dental Implants General Dentistry @O/whitetuskdental 13/o /2622 (Lg Fiza Mozawa_La I9 /F R Phexu U_ X Tab ZeeocloL PT S( Btobr  Jumn_ Pbx moub_was Colja..."
@@ -1102,8 +1102,8 @@
         "frequencies": [],
         "durations": [],
         "routes": [
-          "po",
-          "im"
+          "im",
+          "po"
         ],
         "doctors": [],
         "hospitals": [
@@ -1127,16 +1127,16 @@
         ],
         "durations": [],
         "routes": [
-          "po",
-          "im"
+          "im",
+          "po"
         ],
         "doctors": [],
         "hospitals": [
           "Obesity Clinic"
         ],
         "specialties": [
-          "general",
-          "ent"
+          "ent",
+          "general"
         ]
       },
       "text_preview": "SumDra Dr: Ravindra Kumar Mbes PCDCC Ric Conuuttont Fhykk Head $ Dobeles paco Fate Hopd , Detd 4ls \" Aklu tole Medonla Ihe Medcm Hood Gupon Udex Cosfd-49 gj- & %v 0k4 4o Skitrze] UR Je 4p1 % eruk cstW..."
@@ -1252,9 +1252,9 @@
           "5412 months"
         ],
         "routes": [
-          "sc",
+          "im",
           "po",
-          "im"
+          "sc"
         ],
         "doctors": [],
         "hospitals": [],
@@ -1354,8 +1354,8 @@
         "frequencies": [],
         "durations": [],
         "routes": [
-          "sc",
-          "im"
+          "im",
+          "sc"
         ],
         "doctors": [
           "Dr Mahcsh Kumar Rovoorl Jsm nu slaik Mdns"
@@ -1374,9 +1374,9 @@
         "frequencies": [],
         "durations": [],
         "routes": [
-          "sc",
+          "im",
           "po",
-          "im"
+          "sc"
         ],
         "doctors": [
           "Doctor T"
@@ -1386,8 +1386,8 @@
           "Fortis SPECIALITY Hospital"
         ],
         "specialties": [
-          "surgery",
-          "ent"
+          "ent",
+          "surgery"
         ]
       },
       "text_preview": "Fortis OPD CONSULTATION Foitis dentr Fit AocRajan Druall Hospital Pockel AlI Marg, Vasant Kunf Delhi 110 070 FLT LI. RAIAN DHALL Tel: 91-11-1277-6222 H 0 $ P T A Fortis Institute of Advanced Orthopaed..."
@@ -1401,10 +1401,10 @@
         "frequencies": [],
         "durations": [],
         "routes": [
+          "im",
           "iv",
-          "sc",
           "po",
-          "im"
+          "sc"
         ],
         "doctors": [],
         "hospitals": [
@@ -1497,8 +1497,8 @@
         "frequencies": [],
         "durations": [],
         "routes": [
-          "sc",
-          "po"
+          "po",
+          "sc"
         ],
         "doctors": [],
         "hospitals": [],
@@ -1558,9 +1558,9 @@
         "frequencies": [],
         "durations": [],
         "routes": [
+          "im",
           "iv",
-          "po",
-          "im"
+          "po"
         ],
         "doctors": [
           "Dr Jeue"
@@ -1896,8 +1896,8 @@
         "frequencies": [],
         "durations": [],
         "routes": [
-          "iv",
-          "im"
+          "im",
+          "iv"
         ],
         "doctors": [],
         "hospitals": [],
@@ -1916,14 +1916,14 @@
         "frequencies": [],
         "durations": [],
         "routes": [
-          "otic",
-          "im"
+          "im",
+          "otic"
         ],
         "doctors": [],
         "hospitals": [],
         "specialties": [
-          "general",
-          "ent"
+          "ent",
+          "general"
         ]
       },
       "text_preview": "Balu Zo b e4 Weight Luug EMI 4(24 Waist Circum Hetott 54 Pulse Resp B.P : Temp General Examination Allergies Clinical Diagnosis & Management Plan History Ror Cou - ulc dvps |j__ (0 (1dnp 3 tng 0 srJ T..."
@@ -1937,8 +1937,8 @@
         "frequencies": [],
         "durations": [],
         "routes": [
-          "iv",
-          "im"
+          "im",
+          "iv"
         ],
         "doctors": [],
         "hospitals": [],
@@ -1958,9 +1958,9 @@
         "frequencies": [],
         "durations": [],
         "routes": [
+          "im",
           "iv",
-          "po",
-          "im"
+          "po"
         ],
         "doctors": [],
         "hospitals": [],
@@ -1980,8 +1980,8 @@
         "durations": [],
         "routes": [
           "iv",
-          "sc",
-          "po"
+          "po",
+          "sc"
         ],
         "doctors": [],
         "hospitals": [],
@@ -2002,8 +2002,8 @@
         ],
         "durations": [],
         "routes": [
-          "po",
-          "im"
+          "im",
+          "po"
         ],
         "doctors": [],
         "hospitals": [],
@@ -2098,8 +2098,8 @@
         "frequencies": [],
         "durations": [],
         "routes": [
-          "iv",
-          "im"
+          "im",
+          "iv"
         ],
         "doctors": [],
         "hospitals": [],
@@ -2153,9 +2153,9 @@
         "frequencies": [],
         "durations": [],
         "routes": [
+          "im",
           "iv",
-          "po",
-          "im"
+          "po"
         ],
         "doctors": [
           "Dr Jeue"
@@ -2176,8 +2176,8 @@
         "frequencies": [],
         "durations": [],
         "routes": [
-          "sc",
-          "im"
+          "im",
+          "sc"
         ],
         "doctors": [
           "DR. SAMPURNA GHOSH Consultant ENT",
@@ -2207,9 +2207,9 @@
           "6 Months"
         ],
         "routes": [
+          "im",
           "iv",
-          "po",
-          "im"
+          "po"
         ],
         "doctors": [],
         "hospitals": [],
@@ -2233,8 +2233,8 @@
         ],
         "durations": [],
         "routes": [
-          "iv",
-          "im"
+          "im",
+          "iv"
         ],
         "doctors": [],
         "hospitals": [],
@@ -2253,9 +2253,9 @@
         "frequencies": [],
         "durations": [],
         "routes": [
+          "im",
           "iv",
-          "sc",
-          "im"
+          "sc"
         ],
         "doctors": [
           "doctor immediately Ph"

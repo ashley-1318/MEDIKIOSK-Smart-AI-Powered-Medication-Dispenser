@@ -97,6 +97,11 @@ class ComprehensiveMedicalAnalyzer:
     def process_single_image(self, image_path: str) -> Dict:
         """Process a single image and return comprehensive analysis."""
         try:
+            # Ensure OCR reader is initialized
+            if self.reader is None:
+                self.initialize_ocr()
+            if self.reader is None:
+                raise RuntimeError("EasyOCR reader failed to initialize.")
             # Extract text using OCR
             results = self.reader.readtext(image_path)
             

@@ -39,8 +39,8 @@ durations,1 week,1,0.8928571428571428
 durations,6 months,1,0.8928571428571428
 routes,iv,34,30.357142857142854
 routes,po,35,31.25
-routes,sc,27,24.107142857142858
 routes,im,36,32.142857142857146
+routes,sc,27,24.107142857142858
 routes,oral,1,0.8928571428571428
 routes,otic,1,0.8928571428571428
 doctors,dr b,3,2.6785714285714284
@@ -85,10 +85,10 @@ hospitals,msc manila doctorb hospital,1,0.8928571428571428
 hospitals,preethi child clinic,1,0.8928571428571428
 hospitals,children hospital,1,0.8928571428571428
 hospitals,petual succour hospital,1,0.8928571428571428
-specialties,gastroenterology,1,0.8928571428571428
 specialties,ent,46,41.07142857142857
+specialties,gastroenterology,1,0.8928571428571428
 specialties,surgery,2,1.7857142857142856
-specialties,internal,1,0.8928571428571428
 specialties,oncology,1,0.8928571428571428
+specialties,internal,1,0.8928571428571428
 specialties,general,5,4.464285714285714
 specialties,pediatrics,1,0.8928571428571428

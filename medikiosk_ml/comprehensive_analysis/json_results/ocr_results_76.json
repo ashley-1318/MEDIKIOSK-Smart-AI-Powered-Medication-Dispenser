@@ -1,0 +1,90 @@
+{
+  "image_path": "data\\samples\\76.jpg",
+  "success": true,
+  "combined_text": "MletLxo_ 1om  luuxl",
+  "detailed_results": [
+    {
+      "text": "MletLxo_",
+      "confidence": 0.2391502771142659,
+      "bbox": [
+        [
+          2,
+          16
+        ],
+        [
+          146,
+          16
+        ],
+        [
+          146,
+          65
+        ],
+        [
+          2,
+          65
+        ]
+      ]
+    },
+    {
+      "text": "1om",
+      "confidence": 0.34377008849672397,
+      "bbox": [
+        [
+          174,
+          26
+        ],
+        [
+          234,
+          26
+        ],
+        [
+          234,
+          52
+        ],
+        [
+          174,
+          52
+        ]
+      ]
+    },
+    {
+      "text": " luuxl",
+      "confidence": 0.24624940768657258,
+      "bbox": [
+        [
+          110,
+          58
+        ],
+        [
+          230,
+          58
+        ],
+        [
+          230,
+          86
+        ],
+        [
+          110,
+          86
+        ]
+      ]
+    }
+  ],
+  "total_regions": 3,
+  "avg_confidence": 0.2763899244325208,
+  "medical_analysis": {
+    "drug_keywords": [
+      "ml",
+      "l"
+    ],
+    "prescription_indicators": [],
+    "total_medical_terms": 2,
+    "confidence": "Moderate",
+    "is_medical": true
+  },
+  "structured_info": {
+    "dosages": [],
+    "frequencies": [],
+    "durations": []
+  }
+}
